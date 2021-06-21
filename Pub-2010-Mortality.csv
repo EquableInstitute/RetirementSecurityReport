@@ -1,0 +1,304 @@
+Mortality_Category,Age,Mortality
+General,20,0.00013
+General,21,0.00012
+General,22,0.00011
+General,23,0.0001
+General,24,0.00009
+General,25,0.00009
+General,26,0.0001
+General,27,0.00011
+General,28,0.00012
+General,29,0.00013
+General,30,0.00015
+General,31,0.00016
+General,32,0.00018
+General,33,0.00019
+General,34,0.00021
+General,35,0.00023
+General,36,0.00025
+General,37,0.00028
+General,38,0.0003
+General,39,0.00033
+General,40,0.00036
+General,41,0.0004
+General,42,0.00043
+General,43,0.00047
+General,44,0.00051
+General,45,0.00056
+General,46,0.00061
+General,47,0.00066
+General,48,0.00071
+General,49,0.00077
+General,50,0.00083
+General,51,0.0009
+General,52,0.00097
+General,53,0.00105
+General,54,0.00113
+General,55,0.00123
+General,56,0.00133
+General,57,0.00144
+General,58,0.00156
+General,59,0.0017
+General,60,0.00186
+General,61,0.00203
+General,62,0.00222
+General,63,0.00244
+General,64,0.00269
+General,65,0.00296
+General,66,0.00327
+General,67,0.00362
+General,68,0.004
+General,69,0.00442
+General,70,0.00489
+General,71,0.00541
+General,72,0.00598
+General,73,0.00661
+General,74,0.00731
+General,75,0.00808
+General,76,0.00893
+General,77,0.00986
+General,78,0.0109
+General,79,0.01204
+General,80,0.0133
+General,81,0.03787
+General,82,0.04276
+General,83,0.04834
+General,84,0.05474
+General,85,0.06205
+General,86,0.07041
+General,87,0.07987
+General,88,0.09046
+General,89,0.10216
+General,90,0.11487
+General,91,0.12833
+General,92,0.14239
+General,93,0.15702
+General,94,0.17228
+General,95,0.18825
+General,96,0.20505
+General,97,0.22278
+General,98,0.24147
+General,99,0.26113
+General,100,0.2816
+General,101,0.30265
+General,102,0.32382
+General,103,0.34494
+General,104,0.36581
+General,105,0.38625
+General,106,0.40609
+General,107,0.42519
+General,108,0.44341
+General,109,0.46067
+General,110,0.4769
+General,111,0.49205
+General,112,0.5
+General,113,0.5
+General,114,0.5
+General,115,0.5
+General,116,0.5
+General,117,0.5
+General,118,0.5
+General,119,0.5
+General,120,1
+Teachers,20,0.00013
+Teachers,21,0.00012
+Teachers,22,0.0001
+Teachers,23,0.00009
+Teachers,24,0.00009
+Teachers,25,0.00009
+Teachers,26,0.0001
+Teachers,27,0.0001
+Teachers,28,0.00011
+Teachers,29,0.00012
+Teachers,30,0.00014
+Teachers,31,0.00015
+Teachers,32,0.00016
+Teachers,33,0.00017
+Teachers,34,0.00019
+Teachers,35,0.0002
+Teachers,36,0.00022
+Teachers,37,0.00024
+Teachers,38,0.00026
+Teachers,39,0.00029
+Teachers,40,0.00031
+Teachers,41,0.00034
+Teachers,42,0.00037
+Teachers,43,0.00041
+Teachers,44,0.00044
+Teachers,45,0.00048
+Teachers,46,0.00053
+Teachers,47,0.00058
+Teachers,48,0.00063
+Teachers,49,0.00068
+Teachers,50,0.00073
+Teachers,51,0.00079
+Teachers,52,0.00086
+Teachers,53,0.00092
+Teachers,54,0.00099
+Teachers,55,0.00107
+Teachers,56,0.00115
+Teachers,57,0.00124
+Teachers,58,0.00135
+Teachers,59,0.00147
+Teachers,60,0.00161
+Teachers,61,0.00177
+Teachers,62,0.00196
+Teachers,63,0.00217
+Teachers,64,0.00242
+Teachers,65,0.0027
+Teachers,66,0.00302
+Teachers,67,0.00338
+Teachers,68,0.0038
+Teachers,69,0.00429
+Teachers,70,0.00485
+Teachers,71,0.0055
+Teachers,72,0.00625
+Teachers,73,0.0071
+Teachers,74,0.00809
+Teachers,75,0.00921
+Teachers,76,0.01056
+Teachers,77,0.01211
+Teachers,78,0.01389
+Teachers,79,0.01592
+Teachers,80,0.01826
+Teachers,81,0.0321
+Teachers,82,0.03655
+Teachers,83,0.04161
+Teachers,84,0.04736
+Teachers,85,0.05386
+Teachers,86,0.0612
+Teachers,87,0.06946
+Teachers,88,0.07874
+Teachers,89,0.08917
+Teachers,90,0.10089
+Teachers,91,0.11405
+Teachers,92,0.12865
+Teachers,93,0.14465
+Teachers,94,0.16192
+Teachers,95,0.18028
+Teachers,96,0.19955
+Teachers,97,0.2195
+Teachers,98,0.23993
+Teachers,99,0.26068
+Teachers,100,0.2816
+Teachers,101,0.30265
+Teachers,102,0.32382
+Teachers,103,0.34494
+Teachers,104,0.36581
+Teachers,105,0.38625
+Teachers,106,0.40609
+Teachers,107,0.42519
+Teachers,108,0.44341
+Teachers,109,0.46067
+Teachers,110,0.4769
+Teachers,111,0.49205
+Teachers,112,0.5
+Teachers,113,0.5
+Teachers,114,0.5
+Teachers,115,0.5
+Teachers,116,0.5
+Teachers,117,0.5
+Teachers,118,0.5
+Teachers,119,0.5
+Teachers,120,1
+Public Safety,20,0.00016
+Public Safety,21,0.00017
+Public Safety,22,0.00017
+Public Safety,23,0.00018
+Public Safety,24,0.00019
+Public Safety,25,0.0002
+Public Safety,26,0.00021
+Public Safety,27,0.00022
+Public Safety,28,0.00024
+Public Safety,29,0.00025
+Public Safety,30,0.00027
+Public Safety,31,0.00028
+Public Safety,32,0.0003
+Public Safety,33,0.00032
+Public Safety,34,0.00034
+Public Safety,35,0.00036
+Public Safety,36,0.00038
+Public Safety,37,0.00041
+Public Safety,38,0.00043
+Public Safety,39,0.00046
+Public Safety,40,0.00049
+Public Safety,41,0.00052
+Public Safety,42,0.00056
+Public Safety,43,0.00059
+Public Safety,44,0.00063
+Public Safety,45,0.00067
+Public Safety,46,0.00071
+Public Safety,47,0.00076
+Public Safety,48,0.0008
+Public Safety,49,0.00085
+Public Safety,50,0.00091
+Public Safety,51,0.00097
+Public Safety,52,0.00103
+Public Safety,53,0.00109
+Public Safety,54,0.00116
+Public Safety,55,0.00123
+Public Safety,56,0.00131
+Public Safety,57,0.0014
+Public Safety,58,0.00148
+Public Safety,59,0.00158
+Public Safety,60,0.00168
+Public Safety,61,0.00178
+Public Safety,62,0.0019
+Public Safety,63,0.00202
+Public Safety,64,0.00215
+Public Safety,65,0.00228
+Public Safety,66,0.00262
+Public Safety,67,0.003
+Public Safety,68,0.00345
+Public Safety,69,0.00396
+Public Safety,70,0.00454
+Public Safety,71,0.00521
+Public Safety,72,0.00598
+Public Safety,73,0.00686
+Public Safety,74,0.00787
+Public Safety,75,0.00903
+Public Safety,76,0.01036
+Public Safety,77,0.01189
+Public Safety,78,0.01365
+Public Safety,79,0.01566
+Public Safety,80,0.01797
+Public Safety,81,0.0442
+Public Safety,82,0.0493
+Public Safety,83,0.05499
+Public Safety,84,0.06134
+Public Safety,85,0.06842
+Public Safety,86,0.07632
+Public Safety,87,0.08513
+Public Safety,88,0.09496
+Public Safety,89,0.10592
+Public Safety,90,0.11815
+Public Safety,91,0.13123
+Public Safety,92,0.14494
+Public Safety,93,0.15919
+Public Safety,94,0.17403
+Public Safety,95,0.18957
+Public Safety,96,0.20595
+Public Safety,97,0.22331
+Public Safety,98,0.24172
+Public Safety,99,0.2612
+Public Safety,100,0.2816
+Public Safety,101,0.30265
+Public Safety,102,0.32382
+Public Safety,103,0.34494
+Public Safety,104,0.36581
+Public Safety,105,0.38625
+Public Safety,106,0.40609
+Public Safety,107,0.42519
+Public Safety,108,0.44341
+Public Safety,109,0.46067
+Public Safety,110,0.4769
+Public Safety,111,0.49205
+Public Safety,112,0.5
+Public Safety,113,0.5
+Public Safety,114,0.5
+Public Safety,115,0.5
+Public Safety,116,0.5
+Public Safety,117,0.5
+Public Safety,118,0.5
+Public Safety,119,0.5
+Public Safety,120,1

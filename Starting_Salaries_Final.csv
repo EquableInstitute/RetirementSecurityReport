@@ -1,0 +1,336 @@
+﻿EquableClassID,Plan_FullName,Class_Name,StartingSalary_25,StartingSalary_40
+1010102,Alabama Employees' Retirement System,AL ERS Regular Tier 2,31460.84,46040.14
+1010202,Alabama Employees' Retirement System,AL ERS State Police Tier 2,35706.39,59997.39
+1010302,Alabama Employees' Retirement System,AL ERS Local Police & Fire Tier 2,35706.39,59997.39
+1020102,Alabama Teachers' Retirement System,AL TRS Tier 2,40658.69,41223.68
+2010130,Alaska Public Employees’ Retirement System,AK State & Local DC,69796.00,77247.00
+2010230,Alaska Public Employees’ Retirement System,AK Peace Officer & Firefighter DC,100608.00,121378.23
+2020130,Alaska Teachers’ Retirement System,AK TRS DC,79511.00,83522.52
+3010103,Arizona Corrections Officers Retirement Plan,AZ CORP Tier 3,43281.63,44431.41
+3010130,Arizona Corrections Officers Retirement Plan,AZ CORP DC,43281.63,44431.41
+3020130,Arizona Elected Officials Retirement Plan,AZ EORP DC,45877.00,49044.00
+3030103,Arizona Public Safety Personnel Retirement System,AZ PSPRS Tier 3 Maricopa Police,64006.63,84951.74
+3030130,Arizona Public Safety Personnel Retirement System,AZ PSPRS DC Maricopa Police,64006.63,84951.74
+3030203,Arizona Public Safety Personnel Retirement System,AZ PSPRS Tier 3 Pima Police,64006.63,84951.74
+3030230,Arizona Public Safety Personnel Retirement System,AZ PSPRS DC Pima Police,64006.63,84951.74
+3030303,Arizona Public Safety Personnel Retirement System,AZ PSPRS Tier 3 General Police,64006.63,84951.74
+3030330,Arizona Public Safety Personnel Retirement System,AZ PSPRS DC General Police,64006.63,84951.74
+3030403,Arizona Public Safety Personnel Retirement System - Tier 3,AZ PSPRS Tier 3 Maricopa Fire,53763.63,54733.86
+3030430,Arizona Public Safety Personnel Retirement System - Tier 3,AZ PSPRS DC Maricopa Fire,53763.63,54733.86
+3030503,Arizona Public Safety Personnel Retirement System - Tier 3,AZ PSPRS Tier 3 Pima Fire,53763.63,54733.86
+3030530,Arizona Public Safety Personnel Retirement System - Tier 3,AZ PSPRS DC Pima Fire,53763.63,54733.86
+3030603,Arizona Public Safety Personnel Retirement System - Tier 3,AZ PSPRS Tier 3 General Fire,53763.63,54733.86
+3030630,Arizona Public Safety Personnel Retirement System - Tier 3,AZ PSPRS DC General Fire,53763.63,54733.86
+3040100,Arizona State Retirement System,AZ SRS State,29110.53,31026.49
+3040200,Arizona State Retirement System,AZ SRS Teachers,29110.53,31026.49
+4010100,Arkansas Public Employees Retirement System,AR PERS General,31627.21,40137.45
+4010200,Arkansas Public Employees Retirement System,AR PERS Police & Fire,31627.21,40137.45
+4020100,Arkansas Teacher Retirement System,AR TRS Teachers,31154.95,39462.88
+4020200,Arkansas Teacher Retirement System,AR TRS Non-Teachers,31154.95,39462.88
+4030102,Arkansas State Highway Employees Retirement System,AR DOT Tier 2,32639.59,45595.50
+5010101,California Public Employees Retirement Fund,CalPERS State & Local Misc Tier 1,46607.57,62822.91
+5010102,California Public Employees Retirement Fund,CalPERS State & Local Misc Tier 2,46607.57,62822.91
+5010301,California Public Employees Retirement Fund,CalPERS State & Local Industrial Tier 1 Classic,41079.59,56994.92
+5010302,California Public Employees Retirement Fund,CalPERS State & Local Industrial Tier 2,54838.66,74559.38
+5010401,California Public Employees Retirement Fund,CalPERS State & Local Industrial Tier 1 PEPRA,41079.59,56994.92
+5010500,California Public Employees Retirement Fund,CalPERS State Peace Officers and Firefighters - Classic,61546.41,70967.64
+5010600,California Public Employees Retirement Fund,CalPERS State Peace Officers and Firefighters PEPRA,98762.67,104156.28
+5010700,California Public Employees Retirement Fund,CalPERS State & Local Safety Classic,54838.66,74559.38
+5010800,California Public Employees Retirement Fund,CalPERS State & Local Safety PEPRA,61546.41,70967.64
+5010900,California Public Employees Retirement Fund,CalPERS Highway Patrol Classic,98762.67,104156.28
+5011000,California Public Employees Retirement Fund,CalPERS Highway Patrol PEPRA,69558.04,85342.27
+5011100,California Public Employees Retirement Fund,CalPERS Schools Classic,29519.92,35196.60
+5011200,California Public Employees Retirement Fund,CalPERS Schools PEPRA,29519.92,35196.60
+5011300,California Public Employees Retirement Fund,CalPERS Safety Public Agency Misc,69558.04,85342.27
+5011400,California Public Employees Retirement Fund,CalPERS Safety Public Agency Fire,69558.04,85342.27
+5011500,California Public Employees Retirement Fund,CalPERS Safety Public Agency Police,69558.04,85342.27
+5011600,California Public Employees Retirement Fund,CalPERS Safety Public Agency County Peace Officers,69558.04,85342.27
+5011700,California Public Employees Retirement Fund,CalPERS Safety Public Agency Schools,69558.04,85342.27
+5020100,California State Teachers’ Retirement System,CalSTRS PEPRA,54654.00,54654.00
+5020260,California State Teachers’ Retirement System,CalSTRS GR Option,54654.00,54654.00
+5030116,University of California Retirement System,CA UCRS Faculty PEPRA,68510.52,102479.40
+5030202,University of California Retirement System,CA UCRS Safety PEPRA,88222.55,122298.14
+5040100,California Judges Retirement Fund II,CA JRF 2 PEPRA,207424.00,208832.88
+6010100,Colorado Public Employee Retirement Association - Schools Division Fund,CO PERA Schools Division,29255.44,40338.64
+6010200,Colorado Public Employee Retirement Association - Denver Public Schools Fund,CO PERA Denver Schools,35618.56,49306.99
+6010300,Colorado Public Employee Retirement Association - Schools Division Fund,CO PERA State General,29255.44,40338.64
+6010400,Colorado Public Employee Retirement Association - State Division Fund,CO PERA State Troopers,36979.96,55856.68
+6010500,Colorado Public Employee Retirement Association - Local Division Fund,CO PERA Local Division,32059.28,57782.66
+6020130,Colorado Public Employee Retirement Association - State Division Fund,CO PERAChoice DC State General,36979.96,55856.68
+6020230,Colorado Public Employee Retirement Association - State Division Fund,CO PERAChoice DC Universities & Colleges,36979.96,55856.68
+6020330,Colorado Public Employee Retirement Association - State Division Fund,CO PERAChoice DC State Public Safety,36979.96,55856.68
+6020430,Colorado Public Employee Retirement Association - Local Division Fund,CO PERAChoice DC Local Division,32059.28,57782.66
+6030107,Colorado Fire and Police Pension Association,CO P&F Post-2007,56650.68,56522.46
+7010100,Connecticut Municipal Employees Retirement System,CT MERS General (Not SSA Covered),33905.28,49098.33
+7010200,Connecticut Municipal Employees Retirement System,CT MERS General (SSA Covered),33905.28,49098.33
+7010300,Connecticut Municipal Employees Retirement System,CT MERS Safety (Not SSA Covered),75780.63,109206.08
+7010400,Connecticut Municipal Employees Retirement System,CT MERS Safety (SSA Covered),75780.63,109206.08
+7020100,Connecticut State Employees Retirement System,CT SERS Non-Hazardous,28846.64,44304.72
+7020200,Connecticut State Employees Retirement System,CT SERS Hazardous,37873.13,44891.57
+7030100,Connecticut State Teachers’ Retirement System,CT TRS,51791.15,62157.59
+8010100,Delaware State Employees’ Pension Plan,DE SEPP General,32669.16,36300.49
+8010200,Delaware State Employees’ Pension Plan,DE SEPP Teachers,32669.16,36300.49
+9010103,District of Columbia Police Officers and Fire Fighters' Retirement Fund,DC POFRF Fire,57931.00,63724.10
+9010203,District of Columbia Police Officers and Fire Fighters' Retirement Fund,DC POFRF Police,63970.00,63970.00
+9020100,District of Columbia Teachers' Retirement Fund,DC TRP,69481.13,93556.65
+10010100,Florida Retirement System - Defined Benefit Plan,FL RS Pension Regular Class Non-K-12,30051.42,33831.20
+10010130,Florida Retirement System Investment Plan,FL RS DC Regular Class K-12 Teachers,28198.10,31017.91
+10010200,Florida Retirement System - Defined Benefit Plan,FL RS Pension Regular Class K-12 Teachers,28198.10,31017.91
+10010230,Florida Retirement System Investment Plan,FL RS DC Regular Class Non-K-12,30051.42,33831.20
+10020100,Florida Retirement System - Defined Benefit Plan,FL RS Pension Special Risk Class,42687.89,46811.95
+10020130,Florida Retirement System Investment Plan,FL RS DC Special Risk Class,42687.89,46811.95
+10030100,Florida Retirement System - Defined Benefit Plan,FL RS Pension Elected Officers' Class Judges,149072.00,146636.72
+10030130,Florida Retirement System Investment Plan,FL RS DC Elected Officers' Class Judges,149072.00,146636.72
+10030200,Florida Retirement System - Defined Benefit Plan,FL RS Pension Elected Officers' Class State,31394.00,35528.25
+10030230,Florida Retirement System Investment Plan,FL RS DC Elected Officers' Class State,31394.00,35528.25
+10030300,Florida Retirement System - Defined Benefit Plan,FL RS Pension Elected Officers' Class County & Local,15784.00,28115.60
+10030330,Florida Retirement System Investment Plan,FL RS DC Elected Officers' Class County & Local,15784.00,28115.60
+10040100,Florida Retirement System - Defined Benefit Plan,FL RS Pension Senior Management Class,45148.86,62394.53
+10040130,Florida Retirement System Investment Plan,FL RS DC Senior Management Class,45148.86,62394.53
+10050130,Florida Retirement System Investment Plan,FL RS DC Special Risk Administrative Class,34519.00,37970.90
+11010190,Georgia Employees’ Retirement System,GA ERS Hybrid General,32096.53,43900.78
+11010290,Georgia Employees’ Retirement System,GA ERS Hybrid Safety,32096.53,43900.78
+11020100,Georgia Teachers Retirement System,GA TRS,21789.22,30143.37
+12010190,Employees’ Retirement System of the State of Hawaii,HI ERS General,43186.36,48548.67
+12010290,Employees’ Retirement System of the State of Hawaii,HI ERS Teachers,47839.55,56577.66
+12010300,Employees’ Retirement System of the State of Hawaii,HI ERS Police & Fire,67954.57,65872.58
+13010100,Public Employee Retirement System of Idaho,ID PERSI General,26025.75,28628.33
+13010200,Public Employee Retirement System of Idaho,ID PERSI Teachers,44945.25,49439.78
+13010300,Public Employee Retirement System of Idaho,ID PERSI Police & Fire,48862.50,53748.75
+14010102,Illinois Municipal Retirement Fund,IL MRF Regular Tier 2 ,30506.37,43283.59
+14010202,Illinois Municipal Retirement Fund,IL MRF Sheriffs Tier 2 ,52319.53,76605.07
+14010302,Illinois Municipal Retirement Fund,IL MRF ECO Tier 2 ,79256.40,87182.04
+14020102,Illinois State Employees Retirement System,IL SERS General Tier 2,74184.67,81603.14
+14020202,Illinois State Employees Retirement System,IL SERS Public Safety Tier 2 (SSA Covered),74184.67,81603.14
+14020203,Illinois State Employees Retirement System,IL SERS Public Safety Tier 2 (Not SSA Covered),74184.67,81603.14
+14030100,Illinois State University Retirement System,IL SURS ,32037.01,59916.21
+14040102,Illinois State Teachers' Retirement System,IL TRS Tier 2,49388.49,73864.69
+14050102,Judges' Retirement System of Illinois,IL JRS,149640.60,199520.79
+15010100,Indiana 1977 Police Officers' and Firefighters' Pension and Disability Fund,IN 1977 Police & Fire,59729.83,59952.92
+15020130,Indiana My Choice: Retirement Savings Plan,IN PERF DC State,31363.36,30642.82
+15020190,Indiana Public Employees Retirement Fund,IN PERF Hybrid State,31363.36,30642.82
+15020230,Indiana My Choice: Retirement Savings Plan,IN PERF DC Local,31363.36,30642.82
+15020290,Indiana Public Employees Retirement Fund,IN PERF Hybrid Local,31363.36,30642.82
+15030130,Indiana My Choice: Retirement Savings Plan,IN TRF DC,38785.27,41535.57
+15030190,Indiana State Teachers Retirement Fund - 1996 Account,IN TRF Hybrid,38785.27,41535.57
+16010100,Iowa Municipal Fire and Police Retirement System,IA MFPRS,61097.14,76787.57
+16020100,Iowa Public Employees' Retirement System,IA PERS General,27697.38,33036.36
+16020200,Iowa Public Employees' Retirement System,IA PERS Other Misc,27697.38,33036.36
+16020300,Iowa Public Employees' Retirement System,IA PERS Teachers,27697.38,33036.36
+16020400,Iowa Public Employees' Retirement System,IA PERS Sheriffs,51977.99,57300.87
+16020500,Iowa Public Employees' Retirement System,IA PERS Protection,33710.54,37157.88
+17010160,Kansas Public Employees Retirement System - State Employees,KS PERS State,35168.25,38685.08
+17010260,Kansas Public Employees Retirement System - School Employees,KS PERS Schools,32970.00,36267.00
+17010360,Kansas Public Employees Retirement System - Local Employees,KS PERS Local,36429.75,40072.73
+17020100,Kansas Police and Firefighter's Retirement System,KS PFRS,53341.50,58675.65
+17030100,Kansas Retirement System for Judges,KS JRS,84825.00,93307.50
+18010163,Kentucky County Employees' Retirement System,KY CERS Haz Tier 3,36825.61,37935.51
+18010263,Kentucky County Employees' Retirement System,KY CERS Non-Haz Tier 3,19332.45,20723.35
+18020163,Kentucky Employees' Retirement System,KY ERS Haz Tier 3,25595.95,25167.14
+18020263,Kentucky Employees' Retirement System,KY ERS Non-Haz Tier 3,25038.45,29452.66
+18030163,Kentucky State Police Retirement System,KY SPRS Tier 3,22678.74,19103.14
+18040100,Kentucky Teachers' Retirement System,KY TRS K-12,28017.75,55599.28
+18040200,Kentucky Teachers' Retirement System,KY TRS Higher-Ed,28017.75,55599.28
+19010100,Louisiana State Parochial Employees Retirement System,LA Parochial Plan A,28980.01,31722.46
+19010200,Louisiana State Parochial Employees Retirement System,LA Parochial Plan B,29970.47,34932.50
+19020100,Louisiana School Employees' Retirement System,LA Schools,21101.11,21220.84
+19040100,Louisiana State Employees' Retirement System,LA SERS Regular,26605.95,32811.32
+19040200,Louisiana State Employees' Retirement System,LA SERS Judges,149068.00,150880.00
+19040300,Louisiana State Employees' Retirement System,LA SERS Public Safety,28478.44,31268.90
+19050100,Louisiana State Police Retirement System,LA SPRS,49192.10,49061.83
+19060100,Louisiana Teachers’ Retirement System,LA TRSL Teachers,40250.21,37125.97
+19060200,Louisiana Teachers’ Retirement System,LA TRSL Higher-Ed,46545.35,61710.08
+19060300,Louisiana Teachers’ Retirement System,LA TRSL Lunch Plan A,18097.50,21663.79
+19060400,Louisiana Teachers’ Retirement System,LA TRSL Lunch Plan B,18097.50,21663.79
+19070100,Louisiana Municipal Police,LA Muni Police,34004.79,34382.46
+20010101,Maine Public Employees Retirement System - Consolidated Plan for Participating Local Districts,ME Local Regular Plan AC,24067.80,34333.66
+20010102,Maine Public Employees Retirement System - Consolidated Plan for Participating Local Districts,ME Local Regular Plan AN,24067.80,34333.66
+20010103,Maine Public Employees Retirement System - Consolidated Plan for Participating Local Districts,ME Local Regular Plan BC,24067.80,34333.66
+20010201,Maine Public Employees Retirement System - Consolidated Plan for Participating Local Districts,ME Local Special Plan 2C,41334.58,42140.47
+20010202,Maine Public Employees Retirement System - Consolidated Plan for Participating Local Districts,ME Local Special Plan 3,41334.58,42140.47
+20020100,Maine Public Employees Retirement System - State Employee and Teacher Program,ME PERS Teachers,17081.90,19679.04
+20020200,Maine Public Employees Retirement System - State Employee and Teacher Program,ME PERS State General,34540.24,41060.21
+20020300,Maine Public Employees Retirement System - State Employee and Teacher Program,ME PERS State Police,34540.24,41060.21
+21010100,Maryland State Retirement and Pension System - Employees Combined System,MD SPRS General,39966.44,52856.20
+21010200,Maryland State Retirement and Pension System - Teachers' Combined System,MD SRPS Teachers,47027.82,68439.01
+22010100,Massachusetts State Employees’ Retirement System,MA SERS General,50448.08,69966.09
+22010200,Massachusetts State Employees’ Retirement System,MA SERS Corrections,50448.08,69966.09
+22010300,Massachusetts State Employees’ Retirement System,MA SERS Hazardous Duty,50448.08,69966.09
+22010400,Massachusetts State Employees’ Retirement System,MA SERS State Police,50448.08,69966.09
+22020100,Massachusetts Teachers’ Retirement System,MA TRS,52150.93,77023.23
+23010130,Michigan Public School Employees’ Retirement System,MI PSERS DC Teachers,28330.14,48976.03
+23010192,Michigan Public School Employees’ Retirement System Pension Plus Plan 2,MI PSERS Pension Plus 2 Teachers,28330.14,48976.03
+23010230,Michigan Public School Employees’ Retirement System,MI PSERS DC Non-Teachers,28330.14,48976.03
+23010292,Michigan Public School Employees’ Retirement System Pension Plus Plan 2,MI PSERS Pension Plus 2 Non-Teachers,28330.14,48976.03
+23020132,Michigan State Employees’ Retirement System,MI SERS DC,77802.00,77802.00
+23030191,Michigan State Police Retirement System,MI SPRS State Police Pension Plus,50000.00,57500.00
+24010100,Minnesota State Employees Retirement Fund,MN SERS,35703.73,49095.56
+24020100,Minnesota Teachers Retirement Association,MN TRA,33743.29,29498.67
+24030100,Minnesota General Employees Retirement Plan,MN PERA General,22277.87,28597.67
+24030200,Minnesota Public Employees Police & Fire Plan,MN PERA Police & Fire,54355.08,59413.53
+25010100,Public Employees’ Retirement System of Mississippi,MS PERS General,31783.73,42793.45
+25010200,Public Employees’ Retirement System of Mississippi,MS PERS Teachers,31783.73,42793.45
+25010300,Public Employees’ Retirement System of Mississippi,MS PERS Police & Fire,31783.73,42793.45
+26010100,Missouri Department of Transportation and Highway Patrol Employees' Retirement System,MO DOT Uniformed,53052.78,55196.69
+26010200,Missouri Department of Transportation and Highway Patrol Employees' Retirement System,MO DOT Non-Uniformed,37233.75,36748.76
+26020106,Missouri Local Government Employees Retirement System,MO LGERS General L6,33858.20,42773.43
+26020107,Missouri Local Government Employees Retirement System,MO LGERS General L7,33858.20,42773.43
+26020112,Missouri Local Government Employees Retirement System,MO LGERS General L12,33858.20,42773.43
+26020206,Missouri Local Government Employees Retirement System,MO LGERS Fire L6,42681.37,57714.87
+26020207,Missouri Local Government Employees Retirement System,MO LGERS Fire L7,42681.37,57714.87
+26020212,Missouri Local Government Employees Retirement System,MO LGERS Fire L12,42681.37,57714.87
+26020306,Missouri Local Government Employees Retirement System,MO LGERS Police L6,41797.36,53493.75
+26020307,Missouri Local Government Employees Retirement System,MO LGERS Police L7,41797.36,53493.75
+26020312,Missouri Local Government Employees Retirement System,MO LGERS Police L12,41797.36,53493.75
+26030100,Missouri Public Education Employee Retirement System,MO PEERS,26633.25,29296.58
+26040100,Missouri Public School Retirement System,MO PSRS Teachers,47073.00,51780.30
+26050100,Missouri State Employees’ Retirement System,MO SERS,33272.75,41366.42
+27010100,Montana Public Employees' Retirement System,MT PERS Pension,34708.76,39613.12
+27010130,Montana PERS Defined Contribution Retirement Plan,MT PERS DC,34708.76,39613.12
+27020100,Montana Teachers' Retirement System,MT TRS K-12,25121.42,22292.00
+27020200,Montana Teachers' Retirement System,MT TRS University,25121.42,22292.00
+28010100,Nebraska Public Employees Retirement Systems - School Employees Plan,NE PERS School Division,33914.82,29807.12
+28010260,Nebraska Public Employees Retirement System - State Employees Cash Balance,NE PERS State Division,32479.07,39581.22
+29010100,Public Employees’ Retirement System of Nevada - Regular Subfund,NV PERS General,31296.24,52246.44
+29010200,Public Employees’ Retirement System of Nevada - Regular Subfund,NV PERS Teachers,31296.24,52246.44
+29010300,Public Employees’ Retirement System of Nevada - Police and Firefighters Subfund,NV PERS Police & Fire,53720.94,85281.16
+30010100,New Hampshire Retirement System,NH RS General,41084.25,41084.25
+30010200,New Hampshire Retirement System,NH RS Teachers,41084.25,41084.25
+30010300,New Hampshire Retirement System,NH RS Police Class,41084.25,41084.25
+30010400,New Hampshire Retirement System,NH RS Fire Class,41084.25,41084.25
+31010105,New Jersey Public Employees' Retirement System - State Plan,NJ PERS State Division Tier 5,46201.00,51572.72
+31010205,New Jersey Public Employees' Retirement System - Local Plan,NJ PERS Local Division Tier 5,35839.00,38692.21
+31020103,New Jersey Police & Firemen’s Retirement System - State Division,NJ PFRS State Division Tier 3,40900.00,41600.00
+31020203,New Jersey Police & Firemen’s Retirement System - Local Division,NJ PFRS Local Division Tier 3,45953.00,44630.55
+31030105,New Jersey Teachers’ Pension & Annuity Fund,NJ TPAF,54680.00,61707.57
+31040102,State Police Retirement System of New Jersey,NJ SPRS Tier 2,71879.00,79066.90
+32010100,New Mexico Educational Retirement Board,NM ERB,24678.37,33573.01
+32020102,New Mexico Public Employees Retirement Association,NM PERA State General,36180.53,49167.30
+32020202,New Mexico Public Employees Retirement Association,NM PERA Municipal Plan 1,32629.77,43361.90
+32020302,New Mexico Public Employees Retirement Association,NM PERA Municipal Plan 2,32629.77,43361.90
+32020402,New Mexico Public Employees Retirement Association,NM PERA State Police,42693.26,49851.29
+32020502,New Mexico Public Employees Retirement Association,NM PERA State Corrections,42693.26,49851.29
+32020602,New Mexico Public Employees Retirement Association,NM PERA Municipal Police,48040.18,61709.65
+32020702,New Mexico Public Employees Retirement Association,NM PERA Municipal Fire,39541.20,58539.76
+33010106,New York State and Local Retirement System - Employees’ Retirement System,NY SLRS ERS,22297.13,27871.41
+33010206,New York State and Local Retirement System - Police and Fire Retirement System,NY SLRS Police & Fire,45653.95,57067.44
+33020106,New York State Teachers’ Retirement System,NY STRS,29673.00,32640.30
+34010100,North Carolina Local Government Employees’ Retirement System,NC LGERS General,36861.38,50514.37
+34010200,North Carolina Local Government Employees’ Retirement System,NC LGERS Police,36861.38,50514.37
+34010300,North Carolina Local Government Employees’ Retirement System,NC LGERS Fire,36861.38,50514.37
+34020100,North Carolina Teachers' and State Employees' Retirement System,NC TSERS Teachers,36987.27,41605.08
+34020200,North Carolina Teachers' and State Employees' Retirement System,NC TSERS Other Education,36987.27,41605.08
+34020300,North Carolina Teachers' and State Employees' Retirement System,NC TSERS General,36987.27,41605.08
+34020400,North Carolina Teachers' and State Employees' Retirement System,NC TSERS Law Enforcement,36987.27,41605.08
+35010100,North Dakota Public Employees Retirement System,ND PERS State,36259.44,46517.32
+35010200,North Dakota Public Employees Retirement System,ND PERS Local,36259.44,46517.32
+35010300,North Dakota Public Employees Retirement System,ND PERS Public Safety,42179.36,49996.60
+35010030,North Dakota Public Employees Retirement System Defined Contribution Plan,ND PERS DC,36259.44,46517.32
+35020100,North Dakota Teachers' Fund for Retirement,ND TFFR Teachers,45917.55,62082.11
+36010100,Ohio Police and Fire Pension Fund,OH PFPF Police & Fire,58291.87,61242.59
+36020100,Ohio Public Employees' Retirement System,OH PERS Pension State & Local Classes,26132.96,45841.13
+36020130,Ohio Public Employees Member-Directed Plan,OH PERS DC State & Local Classes,26132.96,45841.13
+36020190,Ohio Public Employees Combined Plan,OH PERS Hybrid State & Local Classes,26132.96,45841.13
+36020200,Ohio Public Employees' Retirement System,OH PERS Pension State & Local Law Enforcement,49360.53,53830.71
+36020230,Ohio Public Employees Member-Directed Plan,OH PERS DC Law Enforcement Class,49360.53,53830.71
+36020290,Ohio Public Employees Combined Plan,OH PERS Hybrid Law Enforcement Class,49360.53,53830.71
+36020330,Ohio Public Employees Member-Directed Plan,OH PERS DC Public Safety Class,47566.75,39295.00
+36020390,Ohio Public Employees Combined Plan,OH PERS Hybrid Public Safety Class,47566.75,39295.00
+36030100,Ohio School Employees' Retirement System,OH SERS,21469.48,14894.34
+36040100,Ohio State Teachers' Retirement System,OH STRS Pension,45035.86,49539.45
+36040130,Ohio Teachers Defined Contribution Plan,OH STRS DC,45035.86,49539.45
+36040190,Ohio Teachers Combined Plan,OH STRS Hybrid,45035.86,49539.45
+37010100,Oklahoma Law Enforcement Retirement System,OK LERS Law Enforcement,47096.53,48514.21
+37020100,Oklahoma Police Pension and Retirement System,OK PPRS Police,44176.46,44634.68
+37030130,Oklahoma Pathfinder Defined Contribution Plan,OK PERS DC Regular,28855.02,33448.10
+37030230,Oklahoma Pathfinder Defined Contribution Plan,OK PERS DC Elected,34775.00,47683.43
+37030330,Oklahoma Pathfinder Defined Contribution Plan,OK PERS DC Hazardous,29069.33,30106.58
+37040100,Oklahoma Teachers' Retirement System,OK TRS,40178.05,45696.62
+38010190,Oregon Public Employees Retirement System,OR OPSRP General,36535.34,48437.46
+38010290,Oregon Public Employees Retirement System,OR OPSRP School District ,38370.00,42207.00
+38010390,Oregon Public Employees Retirement System,OR OPSRP Police & Fire,62045.46,65913.94
+39010130,Pennsylvania Public School Employees’ Retirement System,PA PSERS DC,34347.23,28262.81
+39010191,Pennsylvania Public School Employees’ Retirement System,PA PSERS Class T-G,34347.23,28262.81
+39010192,Pennsylvania Public School Employees’ Retirement System,PA PSERS Class T-H,34347.23,28262.81
+39020130,Pennsylvania State Employees’ Retirement System - Defined Contribution Plan,PA SERS DC General,38008.20,57776.41
+39020191,Pennsylvania State Employees’ Retirement System,PA SERS Class A-5 General,38008.20,57776.41
+39020192,Pennsylvania State Employees’ Retirement System,PA SERS Class A-6 General,38008.20,57776.41
+39020230,Pennsylvania State Employees’ Retirement System - Defined Contribution Plan,PA SERS DC State Police,50837.31,67278.47
+39020291,Pennsylvania State Employees’ Retirement System,PA SERS Class A-5 State Police,50837.31,67278.47
+39020292,Pennsylvania State Employees’ Retirement System,PA SERS Class A-6 State Police,50837.31,67278.47
+39020330,Pennsylvania State Employees’ Retirement System - Defined Contribution Plan,PA SERS DC Elected,50837.31,67278.47
+39020391,Pennsylvania State Employees’ Retirement System,PA SERS Class A-5 Elected,90335.00,92111.67
+39020392,Pennsylvania State Employees’ Retirement System,PA SERS Class A-6 Elected,50837.31,67278.47
+40010190,Employees’ Retirement System of Rhode Island - State Employees,RI ERSRI State General,48568.01,55904.39
+40010290,Employees’ Retirement System of Rhode Island - State Employees,RI ERSRI State Correctional,48568.01,55904.39
+40010390,Employees’ Retirement System of Rhode Island - Teachers,RI ERSRI Teachers,55727.68,75674.78
+40020190,Municipal Employees’ Retirement System of Rhode Island,RI MERS General,30715.72,32203.81
+40020290,Municipal Employees’ Retirement System of Rhode Island,RI MERS Police & Fire,49250.31,52093.25
+41010103,South Carolina Police Officers' Retirement System,SC PORS,32195.40,35506.62
+41020103,South Carolina Retirement System,SC RS Pension General Class 3,24519.46,28439.42
+41020130,South Carolina Optional Retirement Plan,SC RS DC General,24519.46,28439.42
+41020203,South Carolina Retirement System,SC RS Pension Teachers Class 3,24519.46,28439.42
+41020230,South Carolina Optional Retirement Plan,SC RS DC Teachers,24519.46,28439.42
+42010190,South Dakota Retirement System,SD RS Generational Plan Teachers,30557.91,32781.36
+42010290,South Dakota Retirement System,SD RS Generational Plan General,30557.91,32781.36
+42010390,South Dakota Retirement System,SD RS Generational Plan Public Safety,30557.91,32781.36
+43010190,Tennessee State and Higher Education Employee Retirement Plan - General Employees,TN PERP General,31104.75,34215.23
+43010290,Tennessee State and Higher Education Employee Retirement Plan - Public Safety Officer Bridge Payments,TN PERP Public Safety,31104.75,34215.23
+43010390,Tennessee State and Higher Education Employee Retirement Plan - State Judges,TN PERP Judges,31104.75,34215.23
+43020190,Tennessee Teacher Retirement Plan,TN TRP Hybrid,34581.00,38039.10
+44010161,Texas County & District Retirement System,TX CDRS General High Credit,38709.00,42579.90
+44010162,Texas County & District Retirement System,TX CDRS General Low Credit,38709.00,42579.90
+44010261,Texas County & District Retirement System,TX CDRS Police & Fire High Credit,38709.00,42579.90
+44010262,Texas County & District Retirement System,TX CDRS Police & Fire Low Credit,38709.00,42579.90
+44020100,Texas Employees Retirement Fund,TX ERS General,35448.60,44756.54
+44020200,Texas Employees Retirement Fund,TX ERS Legislators,55528.25,61698.06
+44020300,Texas Employees Retirement Fund,TX ERS Elected Officials,55528.25,61698.06
+44020400,Texas Employees Retirement Fund - Texas Law Enforcement & Custodial Officer Supplemental Retirement Plan,TX ERS LECOS,36917.59,38819.97
+44030161,Texas Municipal Retirement System,TX MRS General High Credit,45024.75,49527.23
+44030162,Texas Municipal Retirement System,TX MRS General Low Credit,45024.75,49527.23
+44030261,Texas Municipal Retirement System,TX MRS Police & Fire High Credit,45024.75,49527.23
+44030262,Texas Municipal Retirement System,TX MRS Police & Fire Low Credit,45024.75,49527.23
+44040100,Texas Teachers Retirement System,TX TRS,31364.67,32416.24
+45010132,Utah Public Employees Contributory Retirement System - Tier 2 Defined Contribution Plan,UT State Tier 2 DC,52249.50,57474.45
+45010192,Utah Public Employees Contributory Retirement System - Tier 2 Hybrid Retirement System,UT State Tier 2 Hybrid,52249.50,57474.45
+45010232,Utah Public Employees Contributory Retirement System - Tier 2 Defined Contribution Plan,UT Local Tier 2 DC,46419.75,51061.73
+45010292,Utah Public Employees Contributory Retirement System - Tier 2 Hybrid Retirement System,UT Local Tier 2 Hybrid,46419.75,51061.73
+45010332,Utah Public Employees Contributory Retirement System - Tier 2 Defined Contribution Plan,UT Teacher Tier 2 DC,52249.50,57474.45
+45010392,Utah Public Employees Contributory Retirement System - Tier 2 Hybrid Retirement System,UT Teacher Tier 2 Hybrid,52249.50,57474.45
+45010432,Utah Public Safety and Firefighter Contributory Retirement System - Tier 2 Defined Contribution Plan,UT Public Safety Tier 2 DC,33020.25,36322.28
+45010492,Utah Public Safety and Firefighter Contributory Retirement System - Tier 2 Hybrid Retirement System,UT Public Safety Tier 2 Hybrid,33020.25,36322.28
+45010532,Utah Public Safety and Firefighter Contributory Retirement System - Tier 2 Defined Contribution Plan,UT Fire Tier 2 DC,33020.25,36322.28
+45010592,Utah Public Safety and Firefighter Contributory Retirement System - Tier 2 Hybrid Retirement System,UT Fire Tier 2 Hybrid,33020.25,36322.28
+46010100,Vermont Municipal Employees' Retirement System,VT MERS Group A,23514.03,30182.84
+46010200,Vermont Municipal Employees' Retirement System,VT MERS Group B,30489.11,40260.18
+46010300,Vermont Municipal Employees' Retirement System,VT MERS Group C,53714.04,62612.37
+46010400,Vermont Municipal Employees' Retirement System,VT MERS Group D,57599.36,72781.55
+46020100,Vermont State Employees' Retirement System,VT SERS General,17829.00,19611.90
+46020200,Vermont State Employees' Retirement System,VT SERS Public Safety,41556.84,60039.08
+46030100,Vermont State Teachers' Retirement System,VT STRS,44678.57,60924.25
+47010190,Virginia Judicial Retirement System - Hybrid Plan,VA JRS,158252.00,161003.59
+47010200,Virginia Law Officers’ Retirement System,VA LORS,37465.52,43203.42
+47010390,Virginia State Employee Division - Hybrid Plan,VA RS General Hybrid,41066.46,57648.68
+47010400,Virginia State Police Officers’ Retirement System,VA SPORS,51228.53,67198.93
+47010590,Virginia Teachers Division - Hybrid Plan,VA RS Teachers Hybrid,45036.20,55608.06
+48010102,Washington Law Enforcement Officers’ and Firefighters Retirement System - Plan 2,WA LEOFF Plan 2,68246.04,71360.70
+48020102,Washington Public Employees’ Retirement System - Plan 2 ,WA PERS Plan 2,42891.86,49174.35
+48020293,Washington Public Employees’ Retirement System - Plan 3,WA PERS Hybrid Plan 3,39667.22,48013.80
+48030102,Washington Public Safety Employees' Retirement System Plan 2,WA PSERS Plan 2,48384.92,63633.50
+48040102,Washington School Employees' Retirement System - Plan 2,WA SERS Pension Plan 2,27589.14,29646.85
+48040293,Washington School Employees' Retirement System - Plan 3,WA SERS Hybrid Plan 3,27809.46,29798.53
+48050112,Washington State Patrol Retirement System Plan 1 & 2,WA SPRS Plan 1 & 2,62000.00,63680.60
+48060102,Washington Teachers Retirement System Plan 2,WA TRS Pension Plan 2,63364.86,67064.66
+48060293,Washington Teachers Retirement System Plan 3,WA TRS Hybrid Plan 3,62528.90,73259.74
+49010102,West Virginia Public Employees’ Retirement System,WV PERS State General Tier 2,33797.54,35401.83
+49010202,West Virginia Public Employees’ Retirement System,WV PERS Local General Tier 2,30037.76,33311.29
+49020102,West Virginia Teachers’ Retirement System,WV TRS Teachers Tier 2,38660.88,42047.41
+49020202,West Virginia Teachers’ Retirement System,WV TRS General Tier 2,24604.79,24099.25
+50010100,Wisconsin Retirement System,WI RS General,40579.03,55450.10
+50010200,Wisconsin Retirement System,WI RS Elected,58823.60,85219.74
+50010300,Wisconsin Retirement System,WI RS University,40579.03,55450.10
+50010400,Wisconsin Retirement System,WI RS Teachers,40579.03,55450.10
+50010500,Wisconsin Retirement System,WI RS Safety (SSA Covered),53419.87,69012.04
+50010600,Wisconsin Retirement System,WI RS Safety (Not SSA Covered),64515.35,81905.37
+51010100,Wyoming Retirement System,WY RS Teachers,36088.31,35936.99
+51010200,Wyoming Retirement System,WY RS General,36088.31,35936.99
